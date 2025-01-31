@@ -1,7 +1,7 @@
 # ORP Model
 
 ## Project Overview
-This project focuses on model a critical output control variable of a process: the oxidation-reduction potential (ORP) of the conversion reaction from iodate to iodine. Currently, an ORP sensor is in place; however, this measurement is taken at the end of the conversion process, with a residence time of approximately 15 minutes from the addition of the other process reagents. For this reason, the ORP will be modeled to predict its behavior at the same timestamp as the upstream variables. This will serve as an indicator to anticipate potential deviations
+This project focuses on modeling a critical output control variable of a process: the oxidation-reduction potential (ORP) of the conversion reaction from iodate to iodine. Currently, an ORP sensor is in place; however, this measurement is taken at the end of the conversion process, with a residence time of approximately 15 minutes from the addition of the other process reagents. For this reason, the ORP will be modeled to predict its behavior at the same timestamp as the upstream variables. This will serve as an indicator to anticipate potential deviations
 
 
 ## Objectives
